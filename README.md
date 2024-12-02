@@ -1,4 +1,4 @@
-#Text Canvas Editor 🖌️
+Text Canvas Editor 🖌️
 
 A feature-packed, responsive text editor built using React. This app allows users to add, style, and move text dynamically within a canvas while maintaining a clean undo/redo history. Perfect for text layout projects, digital scrapbooks, or creative visualizations!
 
