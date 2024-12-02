@@ -1,8 +1,8 @@
-# Text Canvas Editor 🖌️
+## Text Canvas Editor 🖌️
 
 A feature-packed, responsive text editor built using React. This app allows users to add, style, and move text dynamically within a canvas while maintaining a clean undo/redo history. Perfect for text layout projects, digital scrapbooks, or creative visualizations!
 
-Features 📋
+## Features 📋
 1.	Drag-and-Drop Text:
 	Effortlessly move text elements across the canvas using mouse or touch gestures.
 2.	Dynamic Styling:
@@ -19,18 +19,11 @@ Features 📋
 	Minimalistic and modern design using Tailwind CSS.
 
 
-Technologies Used 🛠️
-•	React for building reusable components.
-•	Tailwind CSS for styling and responsiveness.
-•	React Icons for beautiful, scalable icons.
+## Technologies Used 🛠️
 
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-## Technologies Used
-
-- **React** for building the user interface
-- **TailwindCSS** for styling
+- **React**  for building reusable components.
+- **TailwindCSS** for styling and responsiveness.
+- **React Icons** for beautiful, scalable icons.
 
 ## Customization
 - TailwindCSS provides a flexible and easy way to style your elements.
